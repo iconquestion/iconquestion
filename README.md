@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ICONQUESTION
 - 👀 I’m interested in IT/Programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on undefined
+- 🌱 I’m currently learning JavaScript & C
+- 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me: mojavenight@qq.com
 
 <!---
